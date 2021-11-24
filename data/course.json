@@ -1,0 +1,32 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Ethics"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "a64885d8-26dd-b95d-e900-92821b2b75f7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Biomedical Engineering Seminar Series: Developing Professional Skills",
+  "course_description": "This course consists of a series of seminars focused on the development of professional skills. Each semester focuses on a different topic, resulting in a repeating cycle that covers medical ethics, responsible conduct of research, written and oral technical communication, and translational issues. Material and activities include guest lectures, case studies, interactive small group discussions, and role-playing simulations.\n",
+  "department_numbers": [
+    "HST"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "HST.590",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
